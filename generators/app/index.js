@@ -30,7 +30,7 @@ module.exports = class extends Generator {
       'public/favicon.ico',
       'public/index.html',
       'src/App.vue',
-      'src/main.js',
+      'src/scss.js',
       'src/router.js',
       'src/assets/logo.png',
       'src/components/HelloWorld.vue',
