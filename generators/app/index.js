@@ -36,7 +36,7 @@ module.exports = class extends Generator {
       'src/components/HelloWorld.vue',
       'src/store/actions.js',
       'src/store/getters.js',
-      'src/store/index.js',
+      'src/store/index.mjs',
       'src/store/mutations.js',
       'src/store/state.js',
       'src/utils/request.js',
